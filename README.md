@@ -1,5 +1,9 @@
 # tr-tweets-hate-speech
 
+description
+----------------
+People have a free platform to openly express their emotions thanks to social media. On social media, users may react on other posts and give their opinions. Social media platforms are used for both encouraging remarks and upsetting hate speech. One of the main causes of the rise in hate speech is the daily large density of shares and interactions on social media, as well as the decentralized nature of these platforms. The rise in online insults directed towards other countries, ethnicities, faiths, and other groups has an effect and disturbs social peace. ML approaches are widely used in comparison to rule-based systems to detect abusive language. The Turkish language’s grammar makes it difficult to complete this project, in addition to the challenges this area faces. The aim of this project is to detect hate speech on Twitter and help the literature to find a way to deal with mislabeled data. So I gathered some public datasets and include particular parts of them to overcome some imbalanced-label problems.
+
 cleaning datasets
 ----------------
 In collecting datasets.ipynb, the format of the datasets are arranged and some unallowed characters are removed.    
