@@ -22,7 +22,7 @@ You should also include the ensemble.csv dataset in the same directory as your n
 
 You should have tensorflow and transformers installed in your kaggle environment. You can use these commands in your notebook:
 
-'''
+`'''
 pip install tensorflow
 pip install tranformers
-'''
+'''`
