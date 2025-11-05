@@ -7,9 +7,6 @@ People have a free platform to openly express their emotions thanks to social me
 ML approaches are widely used in comparison to rule-based systems to detect abusive language. The Turkish language’s grammar makes it difficult to complete this project, in addition to the challenges this area faces. The aim of this project is to detect hate speech on Twitter and help the literature to find a way to deal with mislabeled data. So I gathered some public datasets and include particular parts of them to overcome some imbalanced-label problems.
 
 
-<img width="375" height="349" alt="image" src="https://github.com/user-attachments/assets/d5eaf779-61ae-4506-bff9-b82bd69cff35" />
-
-
 cleaning datasets
 ----------------
 In collecting datasets.ipynb, the format of the datasets are arranged and some unallowed characters are removed.    
